@@ -1,4 +1,5 @@
 # Sistema de Monitoramento e Controle de Energia em Tempo Real
+Global Solution Semestre 1 - Caio, Junior e Wesley
 
 ## Descrição
 Este projeto, desenvolvido na plataforma Wokwi, tem como objetivo monitorar e controlar o consumo de energia em um sistema específico. Utilizando três potenciômetros digitais, o sistema mede a quantidade de energia produzida, gasta e distribuída em Wh (watt-hora). A partir desses dados, é calculado o valor de energia armazenada e todas as informações são enviadas para uma API externa.
