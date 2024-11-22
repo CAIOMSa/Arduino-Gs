@@ -1,5 +1,5 @@
 # Sistema de Monitoramento e Controle de Energia em Tempo Real
-##Global Solution Semestre 1 - Caio, Junior e Wesley
+## Global Solution Semestre 1 - Caio, Junior e Wesley
  * Caio Martinez Saes RM: 560753
  * Wesley Santos Zimmer RM: 560264
  * José Claudio da Silva Junior RM: 559680
