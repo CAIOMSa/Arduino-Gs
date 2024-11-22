@@ -1,5 +1,8 @@
 # Sistema de Monitoramento e Controle de Energia em Tempo Real
-Global Solution Semestre 1 - Caio, Junior e Wesley
+##Global Solution Semestre 1 - Caio, Junior e Wesley
+ * Caio Martinez Saes RM: 560753
+ * Wesley Santos Zimmer RM: 560264
+ * José Claudio da Silva Junior RM: 559680
 
 ## Descrição
 Este projeto, desenvolvido na plataforma Wokwi, tem como objetivo monitorar e controlar o consumo de energia em um sistema específico. Utilizando três potenciômetros digitais, o sistema mede a quantidade de energia produzida, gasta e distribuída em Wh (watt-hora). A partir desses dados, é calculado o valor de energia armazenada e todas as informações são enviadas para uma API externa.
@@ -49,3 +52,4 @@ https://wokwi.com/projects/415209101861876737
 
 ## Link dos demais repositorios:
 * https://github.com/juniorlds98/Global-Solution-S1/tree/main/Projeto
+* https://github.com/CAIOMSa/Api-Python-Gs/tree/main
